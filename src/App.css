@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+
+  }
+  
+  .app {
+    background-color: #f1f2f5;
+    /* width: 100%; */
+  }
+  
+  .app__body {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+  }
+  
